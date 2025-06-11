@@ -6,8 +6,7 @@ A simple, responsive web application that allows users to check real-time weathe
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the app](https://your-netlify-link.netlify.app)  
-> *(Replace with your actual Netlify link)*
+🌐 [Click here to view the app](kabinesan-weather-app.netlify.app)  
 
 ---
 
